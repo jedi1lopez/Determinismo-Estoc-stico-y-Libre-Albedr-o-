@@ -3,7 +3,6 @@
 # ======================================================================================================
 # Título: Caso de Estudio: Determinismo Estocástico y Libre Albedrío - María G. y la Gestión de la Crisis del Agua en "La Esperanza"
 # Autores: Dennis Zavala & Jetro Lopez
-# Institución: Universidad Experimental Simón Rodríguez (UNESR)
 # Programa: Doctorado en Ciencias de la Administración / Gestión Pública Ambiental
 # Curso: Teorías de la Acción Social y Sistemas Complejos
 # Semestre: 2025-II
